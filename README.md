@@ -5,10 +5,10 @@ Insulin acts like a key to let the blood sugar into your body’s cells for use 
 # Data
 The dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases.
 It can be downloaded from Kaggle: https://www.kaggle.com/uciml/pima-indians-diabetes-database
-# Notebook
-1. EDA and feature engineering
-  1.Visualization 
-univariate plots(histograms, density plot, boxplot), multivariate plots(correlation matrix plot, scatter plot matrix)
+
 # References
 https://www.sciencedirect.com/science/article/pii/S1877050918308548
+
 https://machinelearningmastery.com/case-study-predicting-the-onset-of-diabetes-within-five-years-part-1-of-3/
+
+https://machinelearningmastery.com/voting-ensembles-with-python/
